@@ -1,6 +1,5 @@
 # Covid-19
 Machine Learning project containing RandomForestClassifier analysis of COVID-19 dataset.
-This contains a comprehensive library to accurately predict the gold prices using gold datasets.
 
 
 ### Library 
