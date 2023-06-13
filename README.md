@@ -1,5 +1,7 @@
 # Covid-19
 Machine Learning project containing RandomForestClassifier analysis of COVID-19 dataset.
+This is an open source machine learning project. Please feel free to make contributions 
+and you can also connect with the given linkedin link below.
 
 
 ### Library 
